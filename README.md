@@ -43,7 +43,10 @@ O arquivo principal do projeto é:
 - [Site Oficial do CPN Tools](http://cpntools.org)
 - [Colored Petri Nets: Theory and Practice](https://cs.au.dk/~cpnbook/)
 
+---
+Autor: Ingrid Honório da Silva - 119210830 Guilherme Santos da Silveira - 124212387
 
+---- Vídeo de demonstração no youtube
 ---
 
 > Projeto desenvolvido como parte das atividades da disciplina/projeto de Sistemas Embarcados Digitais.
