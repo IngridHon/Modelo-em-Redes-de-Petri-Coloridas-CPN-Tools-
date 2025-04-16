@@ -46,7 +46,7 @@ O arquivo principal do projeto é:
 ---
 Autor: Ingrid Honório da Silva - 119210830 Guilherme Santos da Silveira - 124212387
 
----- Vídeo de demonstração no youtube
+---- Vídeo de demonstração no youtube https://youtu.be/S92NpYc-PR8
 ---
 
 > Projeto desenvolvido como parte das atividades da disciplina/projeto de Sistemas Embarcados Digitais.
